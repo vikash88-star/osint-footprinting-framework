@@ -1,0 +1,9 @@
+# Don't upload scan results or API keys
+output/
+config/settings.yaml
+*.db
+*.pdf
+__pycache__/
+*.pyc
+.env
+venv/
